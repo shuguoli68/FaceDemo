@@ -1,4 +1,7 @@
-# FaceDemo
+# FaceDemo 
+升级版SeetaFace2: https://github.com/shuguoli68/LiSeetaFace2  
+
+
 博客讲解：https://blog.csdn.net/qq_36992688/article/details/81454059
 
 <div align="center">
